@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "o'tgan kunlar",
+    "category": "2",
+    "year": "1926",
+    "about": "urush kunlari haqida",
+    "author": "Abdulla Qodiriy",
+    "muqova": "1685571475700.jpeg",
+    "status": "process",
+    "createdAt": "2023-05-31T22:17:55.700Z"
+  },
+  {
+    "id": 2,
+    "name": "Tumor",
+    "category": "1",
+    "year": "1820",
+    "about": "pushkin hayoti",
+    "author": "Aleksandr Sergeevich Pushkin",
+    "muqova": "1685571826822.jpeg",
+    "status": "process",
+    "createdAt": "2023-05-31T22:23:46.822Z"
+  }
+]
